@@ -21,7 +21,7 @@ Installation
    For example installing any non-Python dependencies or adding any required
    config settings.
 
-Test update
+Test update 1
 
 To install ckanext-datagovuk:
 
